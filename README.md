@@ -1,5 +1,5 @@
 # Masked-Robber-or-Not
-This notebook allows you to classify images and determine if they depict a masked robber man.
+This notebook allows you to classify images and determine if they depict a masked robber.
 
 ## How it works:
 
